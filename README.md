@@ -25,6 +25,13 @@ StepDialog.getInstance()
 |   setCanceledOnTouchOutside    | 点击四周是否取消dialog,默认取消      | 
 | setOutsideIsTransparent | 设置背景四周是否透明,调用时需要放到show方法后面      |
 
+## ViewPager的两种切换方式
+### DepthPageTransformer方式
+![t1](gif/t1.gif)
+
+### ZoomOutPageTransformer方式
+![t2](gif/t2.gif)
+
 # License
 
 ```
