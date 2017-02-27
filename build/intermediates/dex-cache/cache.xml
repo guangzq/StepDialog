@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.12.0_ac84b5d0a35015f0bdc475c800d749ae6535cba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_ace52036492fd738f4e8267a621f36b072b6b365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.12.0_4ab0674ef7a5c4cc3355c68aeb91e02a4d522b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.12.0_2e9ff0a8e7ec54829625641a304ff0777efa022a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_c867ced3fb4bb1ee8689298e021c5cb552769523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_455a417d063c9357cd2f037eebc6053f0379963f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/DialogViewPager/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4da0556a35b65244fd5c23ba19fac639e5d27c23">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/DialogViewPager-library-unspecified_edf381f9004e29611f3db84fc233ad5e7791c48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_d791b62dcf0085cee819c0940ff89b5a8e492fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_b837222ee0e275d21daea69f56fcee382f49caca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.12.0_180803db67c1f99802618606c468673f8aa373b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_e984aa09fb84b3d37a851a0ee61c35b1d29cac9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_ccc19791fbe7bacffd4999422e0f6c4f9cd9bd3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/library-2.4.0_a8cef4a113ce93ef43e23fa4bd848c92af259e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/me.relex/circleindicator/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.2.2_ba5c0f8ae26b9555992539d18396ebd32df364cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_678fc08f99b70863c923726ddfeabe827800ceb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_101d2e0132b7fab83c20cf533a573e042020eb4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_4cdd0b93aa8b02514f4a2facd27f7fad830706cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_108bd2220ba26d1ca962396c75afe2acaf17dadc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/DialogViewPager/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_6ca9693fd2afc073b4dd4ec16b722f43ca3f0ec4.jar" />
+    </item>
+
+</items>
