@@ -2,7 +2,7 @@
 一行代码实现ofo app首次注册时的步骤控件
 
 # Preview
-gif
+![stepdialog](gif/stepdialog.gif)
 
 # Gradle
 ```
