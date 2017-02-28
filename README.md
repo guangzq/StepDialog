@@ -27,9 +27,23 @@ StepDialog.getInstance()
 
 ## ViewPager的两种切换方式
 ### DepthPageTransformer方式
+#### 示例
+```
+StepDialog.getInstance()
+                        .setImages(new int[]{com.zqg.dialogviewpager.R.drawable.new_user_guide_1, com.zqg.dialogviewpager.R.drawable.new_user_guide_2, com.zqg.dialogviewpager.R.drawable.new_user_guide_3, com.zqg.dialogviewpager.R.drawable.new_user_guide_4})
+                        .setPageTransformer(new DepthPageTransformer())
+                        .show(getFragmentManager());
+```
 ![t1](gif/t1.gif)
 
 ### ZoomOutPageTransformer方式
+#### 示例
+```
+StepDialog.getInstance()
+                        .setImages(new int[]{com.zqg.dialogviewpager.R.drawable.new_user_guide_1, com.zqg.dialogviewpager.R.drawable.new_user_guide_2, com.zqg.dialogviewpager.R.drawable.new_user_guide_3, com.zqg.dialogviewpager.R.drawable.new_user_guide_4})
+                        .setPageTransformer(new ZoomOutPageTransformer())
+                        .show(getFragmentManager());
+```
 ![t2](gif/t2.gif)
 
 # License
