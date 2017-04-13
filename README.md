@@ -7,7 +7,7 @@
 # Gradle
 ```
 dependencies {
-    compile 'com.zqg:library:1.0.0'
+    compile 'com.zqg:library:1.0.1'
 }
 ```
 
