@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 StepDialog.getInstance()
-                        .setImages(new int[]{com.zqg.dialogviewpager.R.drawable.new_user_guide_1, com.zqg.dialogviewpager.R.drawable.new_user_guide_2, com.zqg.dialogviewpager.R.drawable.new_user_guide_3, com.zqg.dialogviewpager.R.drawable.new_user_guide_4})
-                        .setCanceledOnTouchOutside(false)
+                        .setImages(new int[]{R.drawable.new_user_guide_1, R.drawable.new_user_guide_2, R.drawable.new_user_guide_3, R.drawable.new_user_guide_4})
+                        .setCanceledOnTouchOutside(true)
                         .setPageTransformer(new ZoomOutPageTransformer())
                         .show(getFragmentManager());
             }

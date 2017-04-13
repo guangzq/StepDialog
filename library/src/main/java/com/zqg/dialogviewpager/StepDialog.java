@@ -36,16 +36,19 @@ public class StepDialog extends DialogFragment {
     private boolean mIsCancel;
     private boolean mIsTransparent;
 
-    public StepDialog() {}
+    public StepDialog() {
+    }
+
     public static StepDialog getInstance() {
-            if (instance == null) {
-                instance = new StepDialog();
-            }
-            return instance;
+        if (instance == null) {
+            instance = new StepDialog();
+        }
+        return instance;
     }
 
     /**
      * 设置图片
+     *
      * @param images
      * @return
      */
@@ -56,6 +59,7 @@ public class StepDialog extends DialogFragment {
 
     /**
      * 设置ViewPager切换动画方式
+     *
      * @param pageTransformer
      * @return
      */
@@ -63,7 +67,6 @@ public class StepDialog extends DialogFragment {
         mPageTransformer = pageTransformer;
         return this;
     }
-
 
 
     public StepDialog show(android.app.FragmentManager fragmentManager) {
@@ -75,6 +78,7 @@ public class StepDialog extends DialogFragment {
 
     /**
      * 点击四周是否取消dialog,默认取消
+     *
      * @param isCancel
      * @return
      */
@@ -82,8 +86,10 @@ public class StepDialog extends DialogFragment {
         mIsCancel = isCancel;
         return this;
     }
+
     /**
      * 设置背景四周是否透明,调用时需要放到show方法后面
+     *
      * @param isTransparent
      * @return
      */
@@ -110,9 +116,7 @@ public class StepDialog extends DialogFragment {
         pageViews = new ArrayList<>();
         getDialog().requestWindowFeature(Window.FEATURE_NO_TITLE);
         getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
-        if (mIsCancel) {
-            getDialog().setCanceledOnTouchOutside(mIsCancel);
-        }
+        getDialog().setCanceledOnTouchOutside(mIsCancel);
         View view = inflater.inflate(R.layout.fragment_dialog, container);
         final ViewPager viewPager = (ViewPager) view.findViewById(viewpager);
         CircleIndicator indicator = (CircleIndicator) view.findViewById(R.id.indicator);
