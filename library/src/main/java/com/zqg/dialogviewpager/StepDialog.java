@@ -35,6 +35,7 @@ public class StepDialog extends DialogFragment {
     public static StepDialog instance = null;
     private boolean mIsCancel;
     private boolean mIsTransparent;
+    private OnCancelListener listener;
 
     public StepDialog() {
     }
@@ -152,6 +153,7 @@ public class StepDialog extends DialogFragment {
                         isDragging = false;
                         break;
                     case ViewPager.SCROLL_STATE_IDLE:
+                        if (listener != null) listener.onCancel(mPosition);
                         if (mPosition == pageViews.size() - 1 && isDragging) {
                             getDialog().dismiss();
                         }
@@ -172,6 +174,15 @@ public class StepDialog extends DialogFragment {
             windowParams.dimAmount = 0.0f;
             window.setAttributes(windowParams);
         }
+    }
+
+    public interface OnCancelListener {
+        void onCancel(int position);
+    }
+
+    public StepDialog setOnCancelListener(OnCancelListener listener) {
+        this.listener = listener;
+        return this;
     }
 
     class ZqgPagerAdapter extends PagerAdapter {
@@ -197,4 +208,5 @@ public class StepDialog extends DialogFragment {
             container.removeView(pageViews.get(position));
         }
     }
+
 }
