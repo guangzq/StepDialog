@@ -7,7 +7,7 @@
 # Gradle
 ```
 dependencies {
-    compile 'com.zqg:library:1.0.1'
+    compile 'com.zqg:library:1.0.2'
 }
 ```
 
@@ -24,6 +24,7 @@ StepDialog.getInstance()
 | setPageTransformer      | ViewPager切换动画方式，分为DepthPageTransformer和ZoomOutPageTransformer两种方式 |
 |   setCanceledOnTouchOutside    | 点击四周是否取消dialog,默认取消      | 
 | setOutsideIsTransparent | 设置背景四周是否透明,调用时需要放到show方法后面      |
+| setOnCancelListener | dissmiss监听，可以用来进行dissmiss后的操作，比如跳转      |
 
 ## ViewPager的两种切换方式
 ### DepthPageTransformer方式
