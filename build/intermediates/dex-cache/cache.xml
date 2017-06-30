@@ -12,39 +12,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a540784239c611ea490593e2053a5e2890675c68">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.12.0_5b75e38e46dd4e48f9a5249085e4c23ec1c637f1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_fa04e03b197d55d9343da7ba1ad41c95d82fc595.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
         <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_8056bb1a839c863e41cd25442ab1caa88d1624e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/me.relex/circleindicator/1.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.2.2_87b64eca2ae5ece80dc198e678e54cf60818b6a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,15 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/library-2.4.0_a8cef4a113ce93ef43e23fa4bd848c92af259e80.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,48 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_d4d253a6abc945cad21fd373971a3cd969acafd9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_2fe1a8cb7ac768fc86ddd3a8c5aa3ab3b344f0a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/boxfish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
         <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_455a417d063c9357cd2f037eebc6053f0379963f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_e42a95c40732deba04418bb22b3681f55853941a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_101d2e0132b7fab83c20cf533a573e042020eb4d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,6 +66,87 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_79557b905795b73b8ebaa1e3d78186e342937be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.12.0_5b75e38e46dd4e48f9a5249085e4c23ec1c637f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_fa04e03b197d55d9343da7ba1ad41c95d82fc595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/me.relex/circleindicator/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.2.2_87b64eca2ae5ece80dc198e678e54cf60818b6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/library-2.4.0_a8cef4a113ce93ef43e23fa4bd848c92af259e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_d4d253a6abc945cad21fd373971a3cd969acafd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.12.0_2fe1a8cb7ac768fc86ddd3a8c5aa3ab3b344f0a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_e42a95c40732deba04418bb22b3681f55853941a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/boxfish/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_101d2e0132b7fab83c20cf533a573e042020eb4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -153,15 +162,6 @@
         revision="25.0.2"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
         <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_9376d7e11484239459cec2aee8c463aa2dc3fcca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/boxfish/AndroidStudioProjects/workitem/StepDialog/dialogdemo/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_79557b905795b73b8ebaa1e3d78186e342937be7.jar" />
     </item>
     <item
         is-multidex="false"
